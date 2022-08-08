@@ -1,4 +1,4 @@
- 
+ // making a change in the name
 #ifndef H_BillType
 #define H_BillType
 
